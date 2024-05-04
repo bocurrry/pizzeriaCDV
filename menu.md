@@ -25,6 +25,19 @@
 |2. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)| |28 zł| 38 zł | 48 zł |
 |3. |BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque)| |30 zł| 40 zł | 50 zł |
 
+
+## Pizza wegetariańska
+
+<img src = "pizza/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 300>
+
+|Lp.|nazwa | rozmiar: | 30 cm | 50 cm | 60 cm |
+|---|-------------------------------------------|---|---|---|--------|
+|1. |MARGHERITA (sos pomidorowy, ser, oregano)| |20 zł| 30 zł | 40 zł |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)| |22 zł| 32 zł | 42 zł |
+|3. |MILANO VEGE (sos pomidorowy, ser, papryka, oregano)| |25 zł| 35 zł | 45 zł |
+|4. |HAWAJSKA VEGE (sos pomidorowy, ser, ananas)| |26 zł| 36 zł | 46 zł |
+|5. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)| |28 zł| 38 zł | 48 zł |
+
 ## Makarony
 
 <img src = "pizza/sama-hosseini-wTBGTwHlf0c-unsplash_pion.jpg" width = 300>
@@ -34,6 +47,14 @@
 |1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)| |24 zł| 44 zł |
 |2. |PENNE Z ŁOSOSIEM (makaron ze śmietaną, łososiem i pietruszką)| |24 zł| 44 zł |
 |3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)| |28 zł| 48 zł |
+
+## Sałatki
+
+<img src = "pizza/nadya-spetnitskaya-tOYiQxF9-Ys-unsplash.jpg" width = 300>
+
+1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 18 zł
+2. Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, geta) - 20 zł
+3. Hiszpańska (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25 zł
 
 ## Sosy
 
