@@ -2,7 +2,7 @@
 
 ## Pizza klasyczna
 
-<img src = "pizza/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 300>
+<img src = "pizza/kelvin-t-AcA8moIiD3g-unsplash.jpg" width = 300>
 
 |Lp.|nazwa | rozmiar: | 30 cm | 50 cm | 60 cm |
 |---|-------------------------------------------|---|---|---|--------|
@@ -50,7 +50,7 @@
 
 ## Sałatki
 
-<img src = "pizza/nadya-spetnitskaya-tOYiQxF9-Ys-unsplash.jpg" width = 300>
+<img src = "pizza/hermes-rivera-OzBLe_Eg1mg-unsplash.jpg" width = 300>
 
 1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 18 zł
 2. Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, geta) - 20 zł
