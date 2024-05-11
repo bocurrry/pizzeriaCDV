@@ -66,6 +66,11 @@
 4. Serowy - 5 zł
 5. Sambal - 5 zł
 
+## Dodatki
+1. Cukinia - 5 zł
+2. Karczochy - 6 zł
+3. Krewetki - 10 zł
+ 
 ## Napoje
 
 <img src = "pizza/mateusz-feliksik-TmOGarNOGFs-unsplash.jpg" width = 300>
