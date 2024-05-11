@@ -68,7 +68,7 @@
 
 ## Dodatki
 
-<img sec = "pizza/alexander-lyubavin-TQRSBuiBGwg-unsplash.jpg" width = 300>
+<img src = "pizza/andrew-konstantinov-_wc3qqyhQio-unsplash.jpg" width = 300>
 
 1. Cukinia - 5 zł
 2. Karczochy - 6 zł
