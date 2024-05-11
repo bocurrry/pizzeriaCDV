@@ -69,7 +69,7 @@
 ## Dodatki
 
 <img src = "pizza/andrew-konstantinov-_wc3qqyhQio-unsplash.jpg" width = 300>
-
+ 
 1. Cukinia - 5 zł
 2. Karczochy - 6 zł
 3. Krewetki - 10 zł
